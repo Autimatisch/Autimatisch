@@ -1,4 +1,4 @@
-![banner](./assets/banner.png)]
+![banner](https://autimatisch.nl/wp-content/uploads/2022/07/text-only-NEW-768x82.png)]
 
 ### hi 👋 
 <br />
