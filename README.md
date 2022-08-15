@@ -1,12 +1,11 @@
-![banner](./assets/banner.png)](autimatisch.nl)
+![banner](./assets/banner.png)]
 
-- 👋 Hi, I’m @Autimatisch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### hi 👋 
+<br />
 
-<!---
-Autimatisch/Autimatisch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hoi, Welkom op het officiële github account van Autimatisch, Hierin vind je onze opensource projecten, en andere repositories met apps, software en andere projecten van Autimatisch 
+
+  
+- 💼 Vragen over onze repositories? [Neem contact op](url:https://www.autimatisch.nl/contact)
+
+
