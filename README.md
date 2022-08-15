@@ -6,6 +6,6 @@
 Hoi, Welkom op het officiële github account van Autimatisch, Hierin vind je onze open source projecten, en andere repositories met apps, software en andere projecten van Autimatisch 
 
   
-- 💼 Vragen over onze repositories? [Neem contact op](url:https://www.autimatisch.nl/contact)
+- 💼 Vragen over onze repositories? https://www.autimatisch.nl/contact
 
 
